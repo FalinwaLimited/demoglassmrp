@@ -1,0 +1,4 @@
+[submodule "FalinwaLimited/falinwa-12.0"]
+	path = FalinwaLimited/falinwa-12.0
+	url = git@github.com:FalinwaLimited/falinwa-12.0.git
+	branch = Production
